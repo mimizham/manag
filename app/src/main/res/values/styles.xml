@@ -8,7 +8,5 @@
         <item name="colorAccent">@color/colorAccent</item>
 
     </style>
-    <style name="NumbePickerStyle">
-       <item name="son">cc</item>
-    </style>
+
 </resources>
