@@ -23,7 +23,7 @@
     </style>
 
     <style name="labelinfo">
-        <item name="android:color">@color/colorBgOppos</item>
+        <item name="android:textColor">@color/colorBgOppos</item>
         <item name="android:textSize">10sp</item>
     </style>
 
@@ -33,5 +33,12 @@
         <item name="android:textColor">@color/white</item>
         <item name="android:padding">20px</item>
 
+    </style>
+
+    <style name="menuTextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/formName</item>
+        <item name="android:textColor">@color/colorBgOppos</item>
+        <item name="android:fontFamily">@font/museoslab300</item>
     </style>
 </resources>

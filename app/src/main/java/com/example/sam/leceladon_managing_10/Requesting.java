@@ -16,7 +16,7 @@ import java.util.Map;
 import javax.net.ssl.HttpsURLConnection;
 
 public class Requesting  {
-    ProgressDialog progressDialog;
+    private ProgressDialog progressDialog;
 
     /* public static String postHttpPage(String url, Map<String,String> urlParameters, String cookie) throws Exception
     {
